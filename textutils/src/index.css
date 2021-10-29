@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+#h2Try{
+  margin-top: 40px;
+  margin-bottom: 13px;
+
+}
+#h3sum,#h3pre,li{
+  margin-left: 19px;
+}
+body{
+  background-color: rgb(3, 27, 46);
+  color:white;
+}
+h1{
+  color:white;
+}
